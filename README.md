@@ -14,19 +14,21 @@ Comisión 22573 - Codo a Codo - Desarrollo Web FullStack
 `git fetch`  
 2. Actualizar la rama principal del proyecto, en este caso es main:  
 `git pull`
-3. Crear nueva rama local para tarea:  
+3. Crear y cambiarnos a una nueva rama para hacer nuestras modificaciones:  
 `git checkout -b nombre_rama`  
 4. Hacer las modificaciones deseadas a un archivo.  
 5. Agregar el archivo modificado al seguimiento de git:  
 `git add nombre_archivo`  
 6. Hacer commit y comentario:  
-`git commit -m "explicación modificación"`  
-7. Modificar otro archivo  
-8. Agregar el otro archivo modificado al seguimiento de git:  
+`git commit -m "explicación de modificación"`  
+7. Modificar el mismo archivo u otro.
+8. Agregar archivo modificado al seguimiento de git:  
 `git add .`  
 9. Hacer commit y comentario:  
-`git commit -m "terminé mi rama"`  
+`git commit -m "terminé mis modificaciones"`  
 10. Publicar rama:  
 `git push origin nombre_rama`  
 
-**El repositorio incluye la guía en PDF usada en clase.**
+*Se puede hacer tantos commits (punto 4 a 6) como sean necesarios*  
+
+**En los archivos del repositorio pueden encontrar la guía en PDF usada en clase.**
