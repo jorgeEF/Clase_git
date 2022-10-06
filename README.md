@@ -7,7 +7,7 @@ Comisión 22573 - Codo a Codo - Desarrollo Web FullStack
 3. Por último, clonamos el repositorio:  
 `git clone https://github.com/jorgeEF/Clase_git.git`
 
-Flujo de trabajo (se repite cuantas veces necesitemos:  
+Flujo de trabajo (se repite cuantas veces necesitemos):  
 1. Actualizar ramas remotas:  
 `git fetch`  
 2. Actualizar la rama principal del proyecto, en este caso es main:  
